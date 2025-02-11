@@ -8,7 +8,10 @@ You can access the dataset here: https://www.kaggle.com/datasets/johnsmith88/hea
 
 # Analysis and Visualizations
 
-. Explored the dataset to check for missing values and understand feature structure. 
-. Visualized feature distributions (age, cholesterol, heart rate) using histograms and box plots.
-. Created a correlation heatmap to identify key feature relationships.
-. Analyzed class distribution of heart disease labels (positive vs. negative).
+•	Explored missing values and data distribution.
+•	Visualized key features (age, cholesterol, max heart rate) using histograms, box plots, and correlation heatmaps.
+•	Investigated the correlation between features and the likelihood of heart disease.
+# Machine Learning Model
+•	Model Type: Random Forest, Logistic Regression, etc.
+•	Performance: Accuracy, precision, recall, F1-score, and ROC-AUC.
+•	Evaluation: Performance evaluated through confusion matrix and cross-validation.
